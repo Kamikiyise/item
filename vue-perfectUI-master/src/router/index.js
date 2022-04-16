@@ -82,7 +82,8 @@ const indexlist = ()=> import('views/demo/super/indexlist/index.vue')
 const barrage = ()=> import('views/demo/super/barrage/index.vue')
 
 const router = new VueRouter({
-  mode: 'history',
+  mode: 'hash',
+  base:'/',
   routes:[
     {
       path:'/',
@@ -309,6 +310,8 @@ const router = new VueRouter({
 });
 
 
+
+
 //全局导航守卫
 router.beforeEach((to,from,next)=>{
   document.title = to.matched[0].meta.title
@@ -320,5 +323,6 @@ router.beforeEach((to,from,next)=>{
     next()
   }
 })
+
 
 export default router;
