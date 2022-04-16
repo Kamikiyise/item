@@ -1,0 +1,1 @@
+.k-slider{position:relative;display:flex;align-items:center;flex-direction:row;height:50px}.k-slider-lightArea{border-radius:100px;width:30%;transition:width}.k-slider-darkArea{border-radius:100px;background-color:#c8c8c8;width:70%;transition:width}.k-slider-circle{position:absolute;border-radius:100%;box-shadow:0 2px 5px rgba(0,0,0,.6);transition:all}

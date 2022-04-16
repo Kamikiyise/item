@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228ca3"],{db4c:function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[n._v("我是下拉菜单")])},u=[],a={},r=a,s=c("2877"),i=Object(s["a"])(r,t,u,!1,null,"74891279",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d228ca3.48379dfb.js.map

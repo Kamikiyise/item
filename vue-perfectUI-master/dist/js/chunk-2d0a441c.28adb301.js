@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a441c"],{"0655":function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[n._v("我是顶部导航")])},a=[],u={},r=u,s=c("2877"),i=Object(s["a"])(r,t,a,!1,null,"ba9b680c",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0a441c.28adb301.js.map

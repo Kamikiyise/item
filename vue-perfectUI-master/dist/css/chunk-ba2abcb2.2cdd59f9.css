@@ -1,0 +1,1 @@
+.k-progress{position:relative;display:flex;flex-direction:row}.k-progress-percent{transition:width;transition-timing-function:linear}.k-progress-percent,.k-progress-text{display:flex;align-items:center;justify-content:center}.k-progress-text{position:absolute;width:100%;height:100%}
