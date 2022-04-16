@@ -1,6 +1,7 @@
 module.exports = {
   //关闭代码检测
   lintOnSave: false,
+  publicPath:'./',
   devServer: {
     port: 8888,
     open: true,
