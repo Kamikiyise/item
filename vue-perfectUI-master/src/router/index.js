@@ -313,16 +313,16 @@ const router = new VueRouter({
 
 
 //全局导航守卫
-router.beforeEach((to,from,next)=>{
-  document.title = to.matched[0].meta.title
-  if(to.matched[0].meta.title !='vue-perfectUI移动端组件库' && to.matched[0].meta.title !='noSupport'){
-    document.title = 'Demo'
-  }
-  //符合条件才跳转
-  if(window.innerWidth<768 || to.matched[0].meta.title =='noSupport'){
-    next()
-  }
-})
+// router.beforeEach((to,from,next)=>{
+//   document.title = to.matched[0].meta.title
+//   if(to.matched[0].meta.title !='vue-perfectUI移动端组件库' && to.matched[0].meta.title !='noSupport'){
+//     document.title = 'Demo'
+//   }
+//   //符合条件才跳转
+//   if(window.innerWidth<768 || to.matched[0].meta.title =='noSupport'){
+//     next()
+//   }
+// })
 
 
 export default router;
