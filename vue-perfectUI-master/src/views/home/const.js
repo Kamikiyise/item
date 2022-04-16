@@ -52,18 +52,18 @@ const list = [
           src:''
         }
       },
-      {
-        name:'badge 徽标数',
-        icon: '/img/list/badge.svg',
-        route:'/components/badge',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'badge 徽标数',
+      //   icon: '/img/list/badge.svg',
+      //   route:'/components/badge',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
       {
         name:'tags 标签',
         icon: '/img/list/tags.svg',
@@ -76,18 +76,18 @@ const list = [
           src:''
         }
       },
-      {
-        name:'count 计数器',
-        icon: '/img/list/count.svg',
-        route:'/components/count',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'count 计数器',
+      //   icon: '/img/list/count.svg',
+      //   route:'/components/count',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
       {
         name:'toast 弹出提示',
         icon: '/img/list/toast.svg',
@@ -178,18 +178,18 @@ const list = [
           src:''
         }
       },
-      {
-        name:'table 表格',
-        icon: '/img/list/table.svg',
-        route:'/components/table',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'table 表格',
+      //   icon: '/img/list/table.svg',
+      //   route:'/components/table',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
       {
         name:'grid 宫格布局',
         icon: '/img/list/grid.svg',
@@ -202,72 +202,72 @@ const list = [
           src:''
         }
       },
-      {
-        name:'picker 选择器',
-        icon: '/img/list/picker.svg',
-        route:'/components/picker',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
-      {
-        name:'scroll 滚动容器',
-        icon: '/img/list/scroll.svg',
-        route:'/components/scroll',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
-      {
-        name:'lazyload 图片懒加载',
-        icon: '/img/list/lazyload.svg',
-        route:'/components/lazyload',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
-      {
-        name:'dropdown 下拉菜单',
-        icon: '/img/list/dropdown.svg',
-        route:'/components/dropdown',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'picker 选择器',
+      //   icon: '/img/list/picker.svg',
+      //   route:'/components/picker',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
+      // {
+      //   name:'scroll 滚动容器',
+      //   icon: '/img/list/scroll.svg',
+      //   route:'/components/scroll',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
+      // {
+      //   name:'lazyload 图片懒加载',
+      //   icon: '/img/list/lazyload.svg',
+      //   route:'/components/lazyload',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
+      // {
+      //   name:'dropdown 下拉菜单',
+      //   icon: '/img/list/dropdown.svg',
+      //   route:'/components/dropdown',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
     ]
   },
   //超级组件
   {
     head:'super组件',
     body:[
-      {
-        name:'waterfall 瀑布流',
-        icon: '/img/list/waterfall.svg',
-        route:'/components/waterfall',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'waterfall 瀑布流',
+      //   icon: '/img/list/waterfall.svg',
+      //   route:'/components/waterfall',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
       {
         name:'popup 弹窗对话框',
         icon: '/img/list/popup.svg',
@@ -280,18 +280,18 @@ const list = [
           src:''
         }
       },
-      {
-        name:'tabbar 底部导航',
-        icon: '/img/list/tabbar.svg',
-        route:'/components/tabbar',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'tabbar 底部导航',
+      //   icon: '/img/list/tabbar.svg',
+      //   route:'/components/tabbar',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
       {
         name:'swiper 轮播图',
         icon: '/img/list/swiper.svg',
@@ -304,18 +304,18 @@ const list = [
           src:''
         }
       },
-      {
-        name:'tabs 顶部导航',
-        icon: '/img/list/tabs.svg',
-        route:'/components/tabs',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'tabs 顶部导航',
+      //   icon: '/img/list/tabs.svg',
+      //   route:'/components/tabs',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
       {
         name:'steps 步骤条',
         icon: '/img/list/steps.svg',
@@ -328,30 +328,30 @@ const list = [
           src:''
         }
       },
-      {
-        name:'indexlist 字母索引列表',
-        icon: '/img/list/indexlist.svg',
-        route:'/components/indexlist',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
-      {
-        name:'barrage 弹幕',
-        icon: '/img/list/barrage.svg',
-        route:'/components/barrage',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'indexlist 字母索引列表',
+      //   icon: '/img/list/indexlist.svg',
+      //   route:'/components/indexlist',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
+      // {
+      //   name:'barrage 弹幕',
+      //   icon: '/img/list/barrage.svg',
+      //   route:'/components/barrage',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
     ]
   }
 
