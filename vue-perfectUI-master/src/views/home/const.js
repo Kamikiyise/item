@@ -2,7 +2,7 @@
 const list = [
   //基本组件
   {
-    head:'base组件',
+    head:'小王base组件',
     body:[
       {
         name:'button 按钮',
@@ -128,7 +128,7 @@ const list = [
   },
   //高级组件
   {
-    head:'high组件',
+    head:'小王high组件',
     body:[
       {
         name:'noticebar 滚动提示',
@@ -254,7 +254,7 @@ const list = [
   },
   //超级组件
   {
-    head:'super组件',
+    head:'小王super组件',
     body:[
       // {
       //   name:'waterfall 瀑布流',
@@ -316,18 +316,18 @@ const list = [
       //     src:''
       //   }
       // },
-      {
-        name:'steps 步骤条',
-        icon: '/img/list/steps.svg',
-        route:'/components/steps',
-        describe:'',
-        rightText:'',
-        rightIcon:{
-          type:0,
-          count:1000,
-          src:''
-        }
-      },
+      // {
+      //   name:'steps 步骤条',
+      //   icon: '/img/list/steps.svg',
+      //   route:'/components/steps',
+      //   describe:'',
+      //   rightText:'',
+      //   rightIcon:{
+      //     type:0,
+      //     count:1000,
+      //     src:''
+      //   }
+      // },
       // {
       //   name:'indexlist 字母索引列表',
       //   icon: '/img/list/indexlist.svg',
