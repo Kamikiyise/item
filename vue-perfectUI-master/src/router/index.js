@@ -104,7 +104,7 @@ const router = new VueRouter({
       path:'/home',
       component:home,
       meta:{
-        title:'vue-perfectUI移动端组件库'
+        title:'小王组件库'
       }
     },
     //base组件
