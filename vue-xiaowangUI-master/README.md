@@ -6,7 +6,7 @@
 
 # 在线预览
 
-https://kamikiyise.github.io/item/vue-perfectUI-master/dist/index.html
+https://kamikiyise.github.io/item/vue-xiaowangUI-master/dist/index.html
 
 
 
