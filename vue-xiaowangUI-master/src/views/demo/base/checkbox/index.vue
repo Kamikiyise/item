@@ -17,6 +17,7 @@
         <k-checkbox
           style="height:30px;width:auto;"
           @change="changeStatus"
+          @change1="changeStatus1"
           :mainStyle="mainStyle"
           :status="status"
           value="苹果"
@@ -28,6 +29,7 @@
         <k-checkbox
           style="height:30px;width:auto;"
           @change="changeStatus"
+          @change1="changeStatus1"
           :mainStyle="mainStyle"
           :status="status"
           value="香蕉"
@@ -39,6 +41,7 @@
         <k-checkbox
           style="height:30px;width:auto;"
           @change="changeStatus"
+          @change1="changeStatus1"
           :mainStyle="mainStyle"
           :status="status"
           value="橘子"
@@ -135,7 +138,10 @@ export default {
     },
     //状态被改变
     changeStatus(value) {
-      this.selected = value;
+      this.selected += value;
+    },
+    changeStatus1(value) {
+      this.selected = this.selected.replace(value,"");
     },
     //背景样式改变
     changeStyle(index) {

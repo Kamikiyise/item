@@ -25,7 +25,10 @@ export default {
       if (!this.selfStatus) {
         this.$emit("change",this.value);
       }
-      this.selfStatus = true;
+      if (this.selfStatus) {
+        this.$emit("change",'');
+      }
+      this.selfStatus = !this.selfStatus;
     }
   },
   mounted() {

@@ -1,4 +1,5 @@
 <template>
+<div>
   <div
     @click="btnClick"
     @touchstart="touchStart"
@@ -10,6 +11,7 @@
     <img class="k-button-loading" v-if="loading" src="/img/button/loading.svg" />
     <slot></slot>
   </div>
+</div>
 </template>
 <script>
 export default {

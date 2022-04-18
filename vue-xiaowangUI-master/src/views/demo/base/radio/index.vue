@@ -11,20 +11,9 @@
       <div class="show-title">演示效果</div>
       <!-- radio组件展示代码 -->
       <div
-        style="height:30px;flex:auto 0 0;display:flex;flex-direction: row;justify-content: space-between; align-items: center;"
+        style="height:30px;flex:auto 0 0;display:flex;flex-direction: row;justify-content: center; align-items: center;"
         class="show-component"
       >
-        <k-radio
-          style="height:30px;width:auto;"
-          @change="changeStatus"
-          :mainStyle="mainStyle"
-          :status="status"
-          value="苹果"
-          :disable="disable"
-          :shape="shape"
-          :height="height"
-          :width="width"
-        >苹果</k-radio>
         <k-radio
           style="height:30px;width:auto;"
           @change="changeStatus"
@@ -36,17 +25,6 @@
           :height="height"
           :width="width"
         >香蕉</k-radio>
-        <k-radio
-          style="height:30px;width:auto;"
-          @change="changeStatus"
-          :mainStyle="mainStyle"
-          :status="status"
-          value="橘子"
-          :disable="disable"
-          :shape="shape"
-          :height="height"
-          :width="width"
-        >橘子</k-radio>
       </div>
       <div
         style="margin-top:20px;flex:auto 0 0;display:flex;justify-content: center; align-items: center;width:100%;opacity:0.8;"
