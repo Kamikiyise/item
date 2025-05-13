@@ -1,6 +1,6 @@
 <template>
   <div class="noSupport">
-    <div><h2>小王UI</h2></div>
+    <div><h2>大王UI</h2></div>
     <div><h2>请在手机浏览器中打开</h2></div>
     <div><h2>PC端请按F12，接着按下Ctrl+shift+M</h2></div>
   </div>
