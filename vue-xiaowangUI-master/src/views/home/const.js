@@ -2,7 +2,7 @@
 const list = [
   //基本组件
   {
-    head:'大王base组件',
+    head:'小王base组件',
     body:[
       {
         name:'button 按钮',
@@ -128,7 +128,7 @@ const list = [
   },
   //高级组件
   {
-    head:'大王high组件',
+    head:'小王high组件',
     body:[
       {
         name:'noticebar 滚动提示',
@@ -254,7 +254,7 @@ const list = [
   },
   //超级组件
   {
-    head:'大王super组件',
+    head:'小王super组件',
     body:[
       // {
       //   name:'waterfall 瀑布流',
