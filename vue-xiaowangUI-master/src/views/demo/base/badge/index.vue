@@ -1,5 +1,5 @@
 <template>
-  <div>我是徽标数1312123132</div>
+  <div>我是徽标数13123112123132</div>
 </template>
 
 <script>
