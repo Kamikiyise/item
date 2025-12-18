@@ -13,7 +13,7 @@ export default {
     return {};
   },
   methods: {
-    //定时查询宽度变化
+    //定时查询宽度变化11
     checkWidth() {
       setInterval(() => {
         //跳转不支持页面
